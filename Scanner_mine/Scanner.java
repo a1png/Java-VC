@@ -341,7 +341,7 @@ public final class Scanner {
             case ',':
                 accept();
                 return Token.COMMA;
-            case SourceFile.eof:    
+            case Token.EOF:
                     currentSpelling.append(Token.spell(Token.EOF));
                     col += 1;
                     return Token.EOF;
