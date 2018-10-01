@@ -1,0 +1,62 @@
+t1.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t10.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t11.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t12.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t13.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t14.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t15.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t16.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t17.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t18.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t19.vc
+b'======= The VC compiler =======\r\nERROR: 2(1)..2(1): Expected type int/float/char/void, got "A"\r\nCompilation was unsuccessful.\r\n'
+t2.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t20.vc
+b'======= The VC compiler =======\r\nERROR: 9(5)..9(7): ";" expected here\r\nCompilation was unsuccessful.\r\n'
+t21.vc
+b'======= The VC compiler =======\r\nERROR: 5(3)..5(5): ";" expected here\r\nCompilation was unsuccessful.\r\n'
+t22.vc
+b'======= The VC compiler =======\r\nERROR: 5(3)..5(3): ";" expected here\r\nCompilation was unsuccessful.\r\n'
+t23.vc
+b'======= The VC compiler =======\r\nERROR: 4(12)..4(12): ";" expected here\r\nCompilation was unsuccessful.\r\n'
+t24.vc
+b'======= The VC compiler =======\r\nERROR: 4(7)..4(11): identifier expected here, got float\r\nCompilation was unsuccessful.\r\n'
+t25.vc
+b'======= The VC compiler =======\r\nERROR: 2(13)..2(13): ")" expected here\r\nCompilation was unsuccessful.\r\n'
+t26.vc
+b'======= The VC compiler =======\r\nERROR: 3(9)..3(11): integer literal expected here, got <float-literal>\r\nCompilation was unsuccessful.\r\n'
+t27.vc
+b'======= The VC compiler =======\r\nERROR: 3(12)..3(12): ";" expected here\r\nCompilation was unsuccessful.\r\n'
+t28.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t29.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t3.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t30.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t31.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t4.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t5.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t6.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t7.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t8.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'
+t9.vc
+b'======= The VC compiler =======\r\nCompilation was successful.\r\n'

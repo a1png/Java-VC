@@ -260,6 +260,7 @@ public final class Scanner {
         if (currentChar == '"') {
             return getString();
         }
+        System.out.println("!!!!!!!!!!!!!!!" + currentChar);
 
         switch (currentChar) {
             // separators 

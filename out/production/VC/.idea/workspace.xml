@@ -1,49 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ASTs/Visitor.java" />
+    <bookmark url="file://$PROJECT_DIR$/ASTs/Type.java" line="20" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5dd7bfdc-57a7-46e2-af69-c9bc1791dbdd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ErrorReporter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/Scanner.class" afterPath="$PROJECT_DIR$/Scanner/Scanner.class" />
-      <change beforePath="$PROJECT_DIR$/Scanner/Scanner.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/SourceFile.class" afterPath="$PROJECT_DIR$/Scanner/SourceFile.class" />
-      <change beforePath="$PROJECT_DIR$/Scanner/SourceFile.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/SourcePosition.class" afterPath="$PROJECT_DIR$/Scanner/SourcePosition.class" />
-      <change beforePath="$PROJECT_DIR$/Scanner/SourcePosition.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/Token.class" afterPath="$PROJECT_DIR$/Scanner/Token.class" />
-      <change beforePath="$PROJECT_DIR$/Scanner/Token.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/comment1.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/comment1.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/comment2.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/comment2.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/comment3.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/comment3.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/comment4.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/comment4.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/error1.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/error1.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/error2.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/error2.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/error3.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/error3.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/error4.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/error4.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/escape.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/escape.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/fib.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/fib.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/gcd.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/gcd.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/longestmatch.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/longestmatch.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/string.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/string.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/tab.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/tab.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/test.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/tokens.sol" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scanner/tokens.vc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/haha.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vc.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Recogniser/Recogniser.java" afterPath="$PROJECT_DIR$/Recogniser/Recogniser.java" />
+      <change beforePath="$PROJECT_DIR$/Scanner_mine/Scanner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Scanner_mine/Scanner.java" afterPath="$PROJECT_DIR$/Scanner_mine/Scanner.java" />
+      <change beforePath="$PROJECT_DIR$/Scanner_mine/SourceFile.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Scanner_mine/SourcePosition.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Scanner_mine/Token.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/VC.iml" afterPath="$PROJECT_DIR$/VC.iml" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/production/VC/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Recogniser/t1.vc" afterPath="$PROJECT_DIR$/out/production/VC/Recogniser/t1.vc" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Recogniser/t18.vc" afterPath="$PROJECT_DIR$/out/production/VC/Recogniser/t18.vc" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Recogniser/t20.vc" afterPath="$PROJECT_DIR$/out/production/VC/Recogniser/t20.vc" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/comment1.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/comment1.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/comment2.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/comment2.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/comment3.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/comment3.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/comment4.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/comment4.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/error1.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/error1.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/error2.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/error2.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/error3.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/error3.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/error4.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/error4.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/escape.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/escape.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/fib.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/fib.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/gcd.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/gcd.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/longestmatch.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/longestmatch.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/string.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/string.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/tab.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/tab.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/test.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/tokens.sol" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/Scanner_mine/tokens.vc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/VC.iml" afterPath="$PROJECT_DIR$/out/production/VC/VC.iml" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/VC/Recogniser/Recogniser.class" afterPath="$PROJECT_DIR$/out/production/VC/VC/Recogniser/Recogniser.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/VC/Scanner/Scanner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/VC/Scanner/SourceFile.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/VC/Scanner/SourcePosition.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/VC/Scanner/Token.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/VC/VC/vc.class" afterPath="$PROJECT_DIR$/out/production/VC/VC/vc.class" />
       <change beforePath="$PROJECT_DIR$/vc.java" afterPath="$PROJECT_DIR$/vc.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -55,18 +67,166 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="vc.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Frame.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/CodeGen/Frame.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="117" column="11" lean-forward="false" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
+                  <folding>
+                    <element signature="e#3744#3745#0" expanded="true" />
+                    <element signature="e#3762#3763#0" expanded="true" />
+                    <element signature="e#4424#4425#0" expanded="true" />
+                    <element signature="e#4459#4460#0" expanded="true" />
+                    <element signature="e#4492#4493#0" expanded="true" />
+                    <element signature="e#4527#4528#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="JVM.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CodeGen/JVM.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1860">
+                  <caret line="95" column="14" lean-forward="false" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Emitter.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CodeGen/Emitter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="20">
+                  <caret line="880" column="30" lean-forward="false" selection-start-line="880" selection-start-column="30" selection-end-line="880" selection-end-column="30" />
+                  <folding>
+                    <element signature="e#0#29497#0" expanded="true" />
+                    <element signature="e#1290#1291#0" expanded="true" />
+                    <element signature="e#1323#1324#0" expanded="true" />
+                    <element signature="e#7657#7658#0" expanded="true" />
+                    <element signature="e#7678#7679#0" expanded="true" />
+                    <element signature="e#7745#7746#0" expanded="true" />
+                    <element signature="e#7766#7767#0" expanded="true" />
+                    <element signature="e#7825#7826#0" expanded="true" />
+                    <element signature="e#7846#7847#0" expanded="true" />
+                    <element signature="e#7913#7914#0" expanded="true" />
+                    <element signature="e#7935#7936#0" expanded="true" />
+                    <element signature="e#17118#17119#0" expanded="true" />
+                    <element signature="e#17139#17140#0" expanded="true" />
+                    <element signature="e#17786#17787#0" expanded="true" />
+                    <element signature="e#17807#17808#0" expanded="true" />
+                    <element signature="e#22126#22127#0" expanded="true" />
+                    <element signature="e#22147#22148#0" expanded="true" />
+                    <element signature="e#22451#22452#0" expanded="true" />
+                    <element signature="e#22472#22473#0" expanded="true" />
+                    <element signature="e#22539#22540#0" expanded="true" />
+                    <element signature="e#22560#22561#0" expanded="true" />
+                    <element signature="e#22619#22620#0" expanded="true" />
+                    <element signature="e#22640#22641#0" expanded="true" />
+                    <element signature="e#22703#22704#0" expanded="true" />
+                    <element signature="e#22724#22725#0" expanded="true" />
+                    <element signature="e#22781#22782#0" expanded="true" />
+                    <element signature="e#22802#22803#0" expanded="true" />
+                    <element signature="e#22861#22862#0" expanded="true" />
+                    <element signature="e#22882#22883#0" expanded="true" />
+                    <element signature="e#22941#22942#0" expanded="true" />
+                    <element signature="e#22962#22963#0" expanded="true" />
+                    <element signature="e#23023#23024#0" expanded="true" />
+                    <element signature="e#23044#23045#0" expanded="true" />
+                    <element signature="e#23138#23139#0" expanded="true" />
+                    <element signature="e#23159#23160#0" expanded="true" />
+                    <element signature="e#23938#23939#0" expanded="true" />
+                    <element signature="e#23959#23960#0" expanded="true" />
+                    <element signature="e#24649#24650#0" expanded="true" />
+                    <element signature="e#24690#24691#0" expanded="true" />
+                    <element signature="e#24735#24736#0" expanded="true" />
+                    <element signature="e#24764#24765#0" expanded="true" />
+                    <element signature="e#24805#24806#0" expanded="true" />
+                    <element signature="e#24833#24834#0" expanded="true" />
+                    <element signature="e#24876#24877#0" expanded="true" />
+                    <element signature="e#24904#24905#0" expanded="true" />
+                    <element signature="e#24956#24957#0" expanded="true" />
+                    <element signature="e#24995#24996#0" expanded="true" />
+                    <element signature="e#25051#25052#0" expanded="true" />
+                    <element signature="e#25091#25092#0" expanded="true" />
+                    <element signature="e#27061#27062#0" expanded="true" />
+                    <element signature="e#27115#27116#0" expanded="true" />
+                    <element signature="e#28106#28107#0" expanded="true" />
+                    <element signature="e#28160#28161#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="test.vc" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/CodeGen/test.vc">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="140">
+                  <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="test.j" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CodeGen/test.j">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="576">
+                  <caret line="52" column="29" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getnewindex</find>
+      <find>L2</find>
+      <find>l3</find>
+      <find>visitbreak</find>
+      <find>system.</find>
+      <find>.push</find>
+      <find>frame.push</find>
+      <find>visitbi</find>
+      <find>visitexpr</find>
+      <find>stmtlist</find>
+      <find>ificm</find>
+      <find>icmpeq</find>
+      <find>visitbinary</find>
+      <find>emitIF_ICMPCOND</find>
+      <find>intliter</find>
+      <find>iconst_</find>
+      <find>----</find>
+      <find>.pop(</find>
+      <find>ifeq</find>
+      <find>ifstmt</find>
+      <find>ireturn</find>
+      <find>assignmen</find>
+      <find>getstatic</find>
+      <find>java</find>
+      <find>locals</find>
+      <find>array</find>
+      <find>return</find>
+      <find>localvarindex</find>
+      <find>arrayexpr</find>
+      <find>visit</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Administrator\Google_drive\assignments\comp9102\VC\Parser</dir>
+      <dir>C:\Users\Administrator\Google_drive\assignments\comp9102\VC\ASTs</dir>
+      <dir>C:\Users\Administrator\Google_drive\assignments\comp9102\VC\Recogniser</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +239,34 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Recogniser/t1.vc" />
+        <option value="$PROJECT_DIR$/Scanner_mine/Scanner.java" />
+        <option value="$PROJECT_DIR$/Recogniser/todolist" />
+        <option value="$PROJECT_DIR$/Recogniser/t18.vc" />
+        <option value="$PROJECT_DIR$/Recogniser/t20.vc" />
+        <option value="$PROJECT_DIR$/Recogniser/t23.vc" />
+        <option value="$PROJECT_DIR$/Recogniser/t7.vc" />
+        <option value="$PROJECT_DIR$/Recogniser/test.vc" />
+        <option value="$PROJECT_DIR$/Recogniser/Recogniser.java" />
+        <option value="$PROJECT_DIR$/ASTs/abstractClasses" />
+        <option value="$PROJECT_DIR$/Parser/Parser.java" />
+        <option value="$PROJECT_DIR$/Parser/test.vc" />
+        <option value="$PROJECT_DIR$/ASTs/Visitor.java" />
+        <option value="$PROJECT_DIR$/ASTs/GlobalVarDecl.java" />
+        <option value="$PROJECT_DIR$/TreeDrawer/LayoutVisitor.java" />
+        <option value="$PROJECT_DIR$/Checker/t2.vc" />
+        <option value="$PROJECT_DIR$/Checker/t1.vc" />
+        <option value="$PROJECT_DIR$/Checker/Checker.java" />
+        <option value="$PROJECT_DIR$/Checker/test.vc" />
+        <option value="$PROJECT_DIR$/CodeGen/max.vc" />
+        <option value="$PROJECT_DIR$/vc_grammar" />
+        <option value="$PROJECT_DIR$/Parser/SyntaxError.java" />
+        <option value="$PROJECT_DIR$/CodeGen/JVM.java" />
         <option value="$PROJECT_DIR$/vc.java" />
+        <option value="$PROJECT_DIR$/CodeGen/test.j" />
+        <option value="$PROJECT_DIR$/CodeGen/Frame.java" />
+        <option value="$PROJECT_DIR$/CodeGen/Emitter.java" />
+        <option value="$PROJECT_DIR$/CodeGen/test.vc" />
       </list>
     </option>
   </component>
@@ -90,9 +277,441 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="688" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Accessibility</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Lint</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Typography</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Annotations verifyingGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Batch Applications Issues</id>
+          </State>
+          <State>
+            <id>Bean Validation issues</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CFML</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Data flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>DeclarationGroovy</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Finalization issuesJava</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Haml</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective access issuesJava</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CloudSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>Tapestry</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Velocity inspections</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>WSDL issues</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -109,9 +728,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -120,20 +738,38 @@
               <item name="VC" type="b2602c69:ProjectViewProjectNode" />
               <item name="VC" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="VC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VC" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeGen" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CodeGen" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Administrator/Google_drive/assignments/comp9102/VC/Checker/test.vc" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="VC.Parser" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Google_drive\assignments\comp9102\VC\CodeGen" />
+      <recent name="$PROJECT_DIR$/ASTs" />
+      <recent name="C:\Users\Administrator\Google_drive\assignments\comp9102\VC\" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,7 +795,7 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="VC.vc" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="CodeGen/test.vc" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -257,44 +893,77 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521950924612</updated>
-      <workItem from="1521950929038" duration="306000" />
+      <workItem from="1521950929038" duration="3962000" />
+      <workItem from="1522098515139" duration="1561000" />
+      <workItem from="1522146833503" duration="1556000" />
+      <workItem from="1522408425291" duration="840000" />
+      <workItem from="1522410004080" duration="3164000" />
+      <workItem from="1522495536640" duration="9497000" />
+      <workItem from="1522554587183" duration="13295000" />
+      <workItem from="1522622713070" duration="22863000" />
+      <workItem from="1522675542984" duration="1257000" />
+      <workItem from="1523790355234" duration="1278000" />
+      <workItem from="1523853120666" duration="1482000" />
+      <workItem from="1523922736003" duration="41343000" />
+      <workItem from="1524271443368" duration="1113000" />
+      <workItem from="1524282874777" duration="6982000" />
+      <workItem from="1524290442056" duration="19323000" />
+      <workItem from="1525495913902" duration="54736000" />
+      <workItem from="1526025767302" duration="41000" />
+      <workItem from="1526098694456" duration="35187000" />
+      <workItem from="1526983799943" duration="961000" />
+      <workItem from="1527300952713" duration="314000" />
+      <workItem from="1527301486618" duration="28483000" />
+      <workItem from="1527565749746" duration="17339000" />
+      <workItem from="1527734266382" duration="21711000" />
+      <workItem from="1527838823053" duration="15477000" />
+      <workItem from="1528088227596" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306000" />
+    <option name="totallyTimeSpent" value="303819000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1203125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2388535" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2388535" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10989583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15208334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1762208" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,35 +973,58 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ASTs/IfStmt.java</url>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="9" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/VC.iml">
+    <entry file="file://$PROJECT_DIR$/Checker/t2.vc" />
+    <entry file="file://$PROJECT_DIR$/Checker/t2.sol" />
+    <entry file="file://$PROJECT_DIR$/Checker/test.vc" />
+    <entry file="file://$PROJECT_DIR$/Checker/t1.vc" />
+    <entry file="file://$PROJECT_DIR$/Checker/t1.sol" />
+    <entry file="file://$PROJECT_DIR$/Checker/Checker.java" />
+    <entry file="file://$PROJECT_DIR$/ASTs/EmptyArgList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vc.class">
+    <entry file="file://$PROJECT_DIR$/ASTs/BinaryExpr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="160">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/haha.txt">
+    <entry file="file://$PROJECT_DIR$/Checker_mine/Checker.java" />
+    <entry file="file://$PROJECT_DIR$/ASTs/ExprList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ErrorReporter.java">
+    <entry file="file://$PROJECT_DIR$/ASTs/CallExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" column="3" lean-forward="false" selection-start-line="13" selection-start-column="66" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/FuncDecl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
@@ -340,10 +1032,432 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vc.java">
+    <entry file="file://$PROJECT_DIR$/ASTs/Operator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/Expr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/FloatType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vc_grammar">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ErrorReporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parser/SyntaxError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parser/Parser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="911">
+          <caret line="95" column="62" lean-forward="false" selection-start-line="95" selection-start-column="55" selection-end-line="95" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/InitExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3" />
+    <entry file="file://$PROJECT_DIR$/ASTs/ExprStmt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/VarExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/Ident.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/AssignExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/Decl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/SimpleVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Checker/Checker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4560">
+          <caret line="297" column="21" lean-forward="false" selection-start-line="297" selection-start-column="0" selection-end-line="298" selection-end-column="0" />
+          <folding>
+            <marker date="1368754014000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1368754014000" expanded="false" signature="134:1713" ph="..." />
+            <marker date="1368754014000" expanded="true" signature="3283:3388" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="3420:3601" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="3690:3878" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="3934:4169" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="4225:4460" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="4539:4757" ph="{...}" />
+            <marker date="1368754014000" expanded="false" signature="4788:4795" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="4826:4830" ph=" }" />
+            <marker date="1368754014000" expanded="true" signature="4888:5280" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="5336:5645" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="5713:6129" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="6189:6423" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="6481:6910" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="6972:7295" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="7357:7487" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="7555:7685" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="7749:7910" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="7970:8022" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="8092:8313" ph="{...}" />
+            <marker date="1368754014000" expanded="false" signature="8374:8381" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="8393:8397" ph=" }" />
+            <marker date="1368754014000" expanded="false" signature="8466:8473" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="8485:8489" ph=" }" />
+            <marker date="1368754014000" expanded="true" signature="8553:9220" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="9284:11204" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="11266:12031" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="12091:12618" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="12680:13167" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="13227:13504" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="13564:13933" ph="{...}" />
+            <marker date="1368754014000" expanded="false" signature="14002:14009" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="14021:14025" ph=" }" />
+            <marker date="1368754014000" expanded="true" signature="14087:14266" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="14332:14403" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="14461:14528" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="14590:14659" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="14717:14800" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="14864:14934" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="14994:15242" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="15302:15401" ph="{...}" />
+            <marker date="1368754014000" expanded="false" signature="15470:15477" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="15489:15493" ph=" }" />
+            <marker date="1368754014000" expanded="true" signature="15563:16961" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="17029:18427" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="18487:18586" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="18646:19007" ph="{...}" />
+            <marker date="1368754014000" expanded="false" signature="19076:19083" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="19095:19099" ph=" }" />
+            <marker date="1368754014000" expanded="true" signature="19167:19329" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="19387:19655" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="19705:20444" ph="{...}" />
+            <marker date="1368754014000" expanded="false" signature="20505:20512" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="20544:20548" ph=" }" />
+            <marker date="1368754014000" expanded="true" signature="20614:20658" ph="{...}" />
+            <marker date="1368754014000" expanded="false" signature="20715:20722" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="20752:20756" ph=" }" />
+            <marker date="1368754014000" expanded="false" signature="20817:20824" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="20856:20860" ph=" }" />
+            <marker date="1368754014000" expanded="false" signature="20923:20930" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="20963:20967" ph=" }" />
+            <marker date="1368754014000" expanded="false" signature="21026:21033" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="21064:21068" ph=" }" />
+            <marker date="1368754014000" expanded="false" signature="21129:21136" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="21148:21152" ph=" }" />
+            <marker date="1368754014000" expanded="true" signature="21206:21337" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="21409:21453" ph="{...}" />
+            <marker date="1368754014000" expanded="false" signature="21516:21523" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="21553:21557" ph=" }" />
+            <marker date="1368754014000" expanded="true" signature="21625:21667" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="21737:21780" ph="{...}" />
+            <marker date="1368754014000" expanded="false" signature="21839:21846" ph=" { " />
+            <marker date="1368754014000" expanded="false" signature="21858:21862" ph=" }" />
+            <marker date="1368754014000" expanded="true" signature="21924:22554" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="22625:22792" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="22835:25163" ph="{...}" />
+            <marker date="1368754014000" expanded="true" signature="25174:25218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/LocalVarDecl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/UnaryExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/Visitor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/ArrayExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/Var.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/IntExpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/IntLiteral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/abstractClasses">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/ReturnStmt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/IfStmt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="166" column="12" lean-forward="false" selection-start-line="166" selection-start-column="12" selection-end-line="166" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeGen/max.vc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeGen/max.j">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeGen/gcd.vc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeGen/gcd.j">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1720">
+          <caret line="86" column="15" lean-forward="false" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeGen/JVM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="95" column="14" lean-forward="false" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StdEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="41" column="41" lean-forward="false" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#1683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/ArrayType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASTs/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeGen/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="117" column="11" lean-forward="false" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
+          <folding>
+            <element signature="e#3744#3745#0" expanded="true" />
+            <element signature="e#3762#3763#0" expanded="true" />
+            <element signature="e#4424#4425#0" expanded="true" />
+            <element signature="e#4459#4460#0" expanded="true" />
+            <element signature="e#4492#4493#0" expanded="true" />
+            <element signature="e#4527#4528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeGen/Emitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="880" column="30" lean-forward="false" selection-start-line="880" selection-start-column="30" selection-end-line="880" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#29497#0" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="e#7657#7658#0" expanded="true" />
+            <element signature="e#7678#7679#0" expanded="true" />
+            <element signature="e#7745#7746#0" expanded="true" />
+            <element signature="e#7766#7767#0" expanded="true" />
+            <element signature="e#7825#7826#0" expanded="true" />
+            <element signature="e#7846#7847#0" expanded="true" />
+            <element signature="e#7913#7914#0" expanded="true" />
+            <element signature="e#7935#7936#0" expanded="true" />
+            <element signature="e#17118#17119#0" expanded="true" />
+            <element signature="e#17139#17140#0" expanded="true" />
+            <element signature="e#17786#17787#0" expanded="true" />
+            <element signature="e#17807#17808#0" expanded="true" />
+            <element signature="e#22126#22127#0" expanded="true" />
+            <element signature="e#22147#22148#0" expanded="true" />
+            <element signature="e#22451#22452#0" expanded="true" />
+            <element signature="e#22472#22473#0" expanded="true" />
+            <element signature="e#22539#22540#0" expanded="true" />
+            <element signature="e#22560#22561#0" expanded="true" />
+            <element signature="e#22619#22620#0" expanded="true" />
+            <element signature="e#22640#22641#0" expanded="true" />
+            <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="e#22724#22725#0" expanded="true" />
+            <element signature="e#22781#22782#0" expanded="true" />
+            <element signature="e#22802#22803#0" expanded="true" />
+            <element signature="e#22861#22862#0" expanded="true" />
+            <element signature="e#22882#22883#0" expanded="true" />
+            <element signature="e#22941#22942#0" expanded="true" />
+            <element signature="e#22962#22963#0" expanded="true" />
+            <element signature="e#23023#23024#0" expanded="true" />
+            <element signature="e#23044#23045#0" expanded="true" />
+            <element signature="e#23138#23139#0" expanded="true" />
+            <element signature="e#23159#23160#0" expanded="true" />
+            <element signature="e#23938#23939#0" expanded="true" />
+            <element signature="e#23959#23960#0" expanded="true" />
+            <element signature="e#24649#24650#0" expanded="true" />
+            <element signature="e#24690#24691#0" expanded="true" />
+            <element signature="e#24735#24736#0" expanded="true" />
+            <element signature="e#24764#24765#0" expanded="true" />
+            <element signature="e#24805#24806#0" expanded="true" />
+            <element signature="e#24833#24834#0" expanded="true" />
+            <element signature="e#24876#24877#0" expanded="true" />
+            <element signature="e#24904#24905#0" expanded="true" />
+            <element signature="e#24956#24957#0" expanded="true" />
+            <element signature="e#24995#24996#0" expanded="true" />
+            <element signature="e#25051#25052#0" expanded="true" />
+            <element signature="e#25091#25092#0" expanded="true" />
+            <element signature="e#27061#27062#0" expanded="true" />
+            <element signature="e#27115#27116#0" expanded="true" />
+            <element signature="e#28106#28107#0" expanded="true" />
+            <element signature="e#28160#28161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeGen/test.j">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="52" column="29" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeGen/test.vc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -405,6 +1519,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
